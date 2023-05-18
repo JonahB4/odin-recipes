@@ -1,3 +1,3 @@
 # odin-recipes
 
-html assignment project for odin project
+html project for odin project
